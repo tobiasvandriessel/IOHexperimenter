@@ -9,3 +9,7 @@
 [submodule "external/fmt"]
 	path = external/fmt
 	url = git@github.com:fmtlib/fmt
+[submodule "external/problem-generator"]
+	path = external/problem-generator
+	url = git@github.com:tobiasvandriessel/problem-generator.git
+	branch = cpp_integration
